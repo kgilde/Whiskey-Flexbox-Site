@@ -25,7 +25,11 @@ p {
 
 .container-barrel img {
   width: 100%;
-  height: 375px;
+  max-width: 1150px;
+  height: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
 }
 
 .container-description {
